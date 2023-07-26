@@ -9,7 +9,7 @@ INJECTED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Be
 INJECTED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
 INJECTED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
 	package
-		ADDED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:70-108
+		ADDED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:70-105
 		INJECTED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
 		INJECTED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
 	android:versionName
@@ -17,7 +17,7 @@ INJECTED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Be
 		ADDED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
 		INJECTED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:109-155
+		ADDED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:106-152
 	android:versionCode
 		INJECTED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
 		ADDED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
@@ -25,7 +25,7 @@ INJECTED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Be
 	xmlns:android
 		ADDED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:156-196
+		ADDED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:153-193
 supports-screens
 ADDED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:3-163
 	android:largeScreens
@@ -39,13 +39,15 @@ ADDED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/A
 	android:anyDensity
 		ADDED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:135-160
 application
-ADDED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:3-83
+ADDED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:3-126
 MERGED from [:unityLibrary] /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-68:19
 MERGED from [:unityLibrary] /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-68:19
 	android:extractNativeLibs
 		ADDED from [:unityLibrary] /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:18-50
 	android:label
 		ADDED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:16-48
+	android:roundIcon
+		ADDED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:81-123
 	android:icon
 		ADDED from /home/akashprakashdev/Desktop/DEV/GAME/IM/CircleRunGame/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:49-80
 uses-sdk
